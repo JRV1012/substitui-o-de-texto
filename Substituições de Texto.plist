@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>vocês</string>
+		<key>shortcut</key>
+		<string>voces</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>você</string>
+		<key>shortcut</key>
+		<string>voce</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>velocidade de hemossedimentação - VHS</string>
+		<key>shortcut</key>
+		<string>VHS</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Universidade de Araraquara - Uniara</string>
+		<key>shortcut</key>
+		<string>uniara</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>taquicardia ventricular </string>
+		<key>shortcut</key>
+		<string>TVvv</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Taquicardia por Reentrada Nodal </string>
+		<key>shortcut</key>
+		<string>TRN</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Taquicardia paroxística supraventricular</string>
+		<key>shortcut</key>
+		<string>TPSV</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>fator de necrose tumoral alfa (TNF-alfa)</string>
+		<key>shortcut</key>
+		<string>TNF-alfa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>17 997322337</string>
+		<key>shortcut</key>
+		<string>TELCOMERCIAL</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Taquicardia Atrioventricular </string>
+		<key>shortcut</key>
+		<string>TAV</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>substâncias</string>
+		<key>shortcut</key>
+		<string>substancias</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Secretaria de Trabalho</string>
+		<key>shortcut</key>
+		<string>STRAB</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Segurança e Saúde no Trabalho</string>
+		<key>shortcut</key>
+		<string>SST</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Spray SL 12/12 horas 01 PUFF e 01 Puff à noite</string>
+		<key>shortcut</key>
+		<string>SpraySL</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>SANTANDER Agência : O085 CC: 01032275-1 </string>
+		<key>shortcut</key>
+		<string>sontonctercc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Subsecretaria de Inspeção do Trabalho</string>
+		<key>shortcut</key>
+		<string>SIT</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sistemica </string>
+		<key>shortcut</key>
+		<string>sistêmica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Sertalina 50 mg  - Tomar 01 comprimido VO de 12/12 Horas</string>
+		<key>shortcut</key>
+		<string>sertalina50mg12/12</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>JRFmaraca10</string>
+		<key>shortcut</key>
+		<string>senhamaraca</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>MARACAjrf10</string>
+		<key>shortcut</key>
+		<string>senhaapp</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Senado Federal</string>
+		<key>shortcut</key>
+		<string>senadofederal</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>saúde </string>
+		<key>shortcut</key>
+		<string>saude</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>são</string>
+		<key>shortcut</key>
+		<string>sao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Relações Sociais</string>
+		<key>shortcut</key>
+		<string>relacoessociais</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>regulamentadoras </string>
+		<key>shortcut</key>
+		<string>regulamentadoras</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>reabsorção  </string>
+		<key>shortcut</key>
+		<string>reabsorcao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R12 FLUKKA DEG - Prostagrandina E1 66 mcg / mL + Fentolamina 3 mg / mL + Papaverina 24 mg / mL +  Atropina 0,1 mg / mL ( Frasco 5 mL)</string>
+		<key>shortcut</key>
+		<string>R12FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R11 FLUKKA DEG - Prostagrandina E1 44 mcg/ml + Fentolamina 3,3 mg/ml + Papaverina 20 mg/ml +  Atropina 0,11 mg/ml  (Frasco de 3 mL)</string>
+		<key>shortcut</key>
+		<string>R11FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R10 FLUKKA DEL - Prostagrandina E1 22 mcg/ml + Fentolamina 0,22 mg/ml + Papaverina 1,8 mg/ml + Atropina 0,022 mg/ml – ( Frasco de 3 mL) </string>
+		<key>shortcut</key>
+		<string>R10FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R9 FLUKKA DEL= Prost. 12 mcg/ml + Fento 1,1mg/ml + Papav 9mg/ml + atropina 0.11 mg/ml</string>
+		<key>shortcut</key>
+		<string>R9FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R8 FLUKKA (Não Refrigerada) Papaverina 18 mg/ml + Fentolamina 1 mg/ml + Atropina 0,2 mg/ml (FRASCO 5ML)</string>
+		<key>shortcut</key>
+		<string>R8FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R7FLUKKA DEM (Não Refrigerada) Papaverina 30 mg/ml + Fentolamina 1mg/ml - Frasco de 5 mL</string>
+		<key>shortcut</key>
+		<string>R7FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R6 FLUKKA DEG -  Prostagrandina E1 20 mcg/ml + Fentolamina 4 mg/ml + Papaverina 25 mg/ml ( Frasco de 4 mL) </string>
+		<key>shortcut</key>
+		<string>R6FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R5 FLUKKA DEM Prostagrandina E1 10 mcg/ml / Fentolamina 1mg/ml Papaverina 30 mg/ml Frasco de 5 mLr</string>
+		<key>shortcut</key>
+		<string>R5FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R4 FLUKKA DEM Prostagrandina E1 20 mcg / mL  Fentolamina 3,3 mg / mL Papaverina 12 mg / mL FRASCO 3 ML</string>
+		<key>shortcut</key>
+		<string>R4FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R2 FLUKKA DEL= Prostoglandina E1 20 mcg/ml + Fentolomina 10 mg/ml    </string>
+		<key>shortcut</key>
+		<string>R2FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>R1 FLUKKA DEL Prostoglandina 10 mcg\ ml + fentolomina 0,2 mg\ml -frasco 5 ml</string>
+		<key>shortcut</key>
+		<string>R1FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Prostoglandina E1</string>
+		<key>shortcut</key>
+		<string>Prost.</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>PERIÓDICO</string>
+		<key>shortcut</key>
+		<string>PPP</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Pós Graduação</string>
+		<key>shortcut</key>
+		<string>posgraduação</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>porém</string>
+		<key>shortcut</key>
+		<string>porem</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Poder Legislativo</string>
+		<key>shortcut</key>
+		<string>poderlegislativo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>CPF : 363.592.278-19</string>
+		<key>shortcut</key>
+		<string>PixSANTANDER</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>drjosericardoviana@gmail.com</string>
+		<key>shortcut</key>
+		<string>PixC6</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Proteína C Reativa - PCR</string>
+		<key>shortcut</key>
+		<string>PCR</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Programa de controle médico de saúde ocupacional</string>
+		<key>shortcut</key>
+		<string>PCMSOO</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Programa de Alimentação do Trabalhador - PAT</string>
+		<key>shortcut</key>
+		<string>PAT</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Paroxetina 20mg</string>
+		<key>shortcut</key>
+		<string>paroxetina</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>PARACETAMOL 750 MG- Tomar 01 comprimido via oral de 6/6h se dor ou febre</string>
+		<key>shortcut</key>
+		<string>PARACETAMOL750MG</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>PARACETAMOL 750 mg - tomar 01 comprimido via oral de 6/6 se dor e/ou febre</string>
+		<key>shortcut</key>
+		<string>PARACETAMOL+dose</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>PAPAVERINA</string>
+		<key>shortcut</key>
+		<string>Papav</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>prostaglandina E2 </string>
+		<key>shortcut</key>
+		<string>P2</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Orientações Gerais e Retorno se necessário</string>
+		<key>shortcut</key>
+		<string>ORRS</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Organização Internacional do Trabalho</string>
+		<key>shortcut</key>
+		<string>OITT</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>obrigado</string>
+		<key>shortcut</key>
+		<string>obri</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ober </string>
+		<key>shortcut</key>
+		<string>ober</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>número</string>
+		<key>shortcut</key>
+		<string>numero</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Normas Regulamentadoras - NR</string>
+		<key>shortcut</key>
+		<string>NRR</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Helena Maria Gonçales Fraçon</string>
+		<key>shortcut</key>
+		<string>nomemae</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Diogo Fraçon Viana Alves</string>
+		<key>shortcut</key>
+		<string>nomedi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>neutrófilos</string>
+		<key>shortcut</key>
+		<string>neutrofilos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>não</string>
+		<key>shortcut</key>
+		<string>nao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>medicina do trabalho</string>
+		<key>shortcut</key>
+		<string>MT</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Ministério do Trabalho</string>
+		<key>shortcut</key>
+		<string>MSSS</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>mg/ml</string>
+		<key>shortcut</key>
+		<string>mgml</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>47.950.712-19</string>
+		<key>shortcut</key>
+		<string>meurg</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>José Ricardo Fraçon Viana Alves </string>
+		<key>shortcut</key>
+		<string>meunome</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>JOSÉ RICARDO FRAÇON VIANA ALVES </string>
+		<key>shortcut</key>
+		<string>meunome</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>jrviana08@gmail.com</string>
+		<key>shortcut</key>
+		<string>meugmail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>363.592.278-19</string>
+		<key>shortcut</key>
+		<string>meucpf</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>10.295.453/0001-46</string>
+		<key>shortcut</key>
+		<string>meucnpj</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>jrviana@icloud.com</string>
+		<key>shortcut</key>
+		<string>meuapple</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>mês</string>
+		<key>shortcut</key>
+		<string>mes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Médico do Trabalho</string>
+		<key>shortcut</key>
+		<string>medt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>médico </string>
+		<key>shortcut</key>
+		<string>medico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>médico emergencista</string>
+		<key>shortcut</key>
+		<string>medemergencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>medicina</string>
+		<key>shortcut</key>
+		<string>med</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>mantém</string>
+		<key>shortcut</key>
+		<string>mantem</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>helenamariagf57@gmail.com</string>
+		<key>shortcut</key>
+		<string>mamaegmail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>mamãe</string>
+		<key>shortcut</key>
+		<string>mamae</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Helena Maria Gonçales Fraçon Alves</string>
+		<key>shortcut</key>
+		<string>maenome</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>helenamariagf57@gmail.com </string>
+		<key>shortcut</key>
+		<string>maegmail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>helenamariagf57@gmail.com</string>
+		<key>shortcut</key>
+		<string>maegmail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>rua Pedro Pegollo,1936- jardim pegollo II CEP 15706266 Jales-SP</string>
+		<key>shortcut</key>
+		<string>MAEENDEREÇO</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>macrófagos </string>
+		<key>shortcut</key>
+		<string>macrofagos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>linfócitos</string>
+		<key>shortcut</key>
+		<string>linfocitos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>legislação</string>
+		<key>shortcut</key>
+		<string>legislacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Centro Paulista</string>
+		<key>shortcut</key>
+		<string>LABCP</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>jurídico</string>
+		<key>shortcut</key>
+		<string>juridico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>jurídicas</string>
+		<key>shortcut</key>
+		<string>juridicas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>introdução </string>
+		<key>shortcut</key>
+		<string>introducao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>interleucina 6 (IL-6)</string>
+		<key>shortcut</key>
+		<string>IL-6</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>interleucina I ( IL-1) </string>
+		<key>shortcut</key>
+		<string>IL-1</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>interferon-gama (IFN-gama) </string>
+		<key>shortcut</key>
+		<string>IFN</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>IAM sem supradesnivelamento de segmento st</string>
+		<key>shortcut</key>
+		<string>IAMsst</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>IAM com supredesnivelamento de segmento st</string>
+		<key>shortcut</key>
+		<string>IAMCST</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>hiperplasia prostática benigna </string>
+		<key>shortcut</key>
+		<string>HPB</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>homicídio</string>
+		<key>shortcut</key>
+		<string>homicidio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>HIDROCLOROTIAZIDA 25 mg TOMAR 01 COMPRIMIDO VIA ORAL CEDO</string>
+		<key>shortcut</key>
+		<string>HCTZ25MGCEDO</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>drjosericardoviana@gmail.com</string>
+		<key>shortcut</key>
+		<string>gmaildr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>fibrilação ventricular </string>
+		<key>shortcut</key>
+		<string>FV</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>FLUKKA</string>
+		<key>shortcut</key>
+		<string>FLUKKA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>terapia injetável intracavernosa</string>
+		<key>shortcut</key>
+		<string>FIC</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Fentolomina</string>
+		<key>shortcut</key>
+		<string>Fent.</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Fentolamina </string>
+		<key>shortcut</key>
+		<string>fent</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>frequência cardíaca </string>
+		<key>shortcut</key>
+		<string>FC</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Fibrilação atrial </string>
+		<key>shortcut</key>
+		<string>FA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>etilefril 1mg/ml - frasco com 1 ml</string>
+		<key>shortcut</key>
+		<string>etilefril</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>então</string>
+		<key>shortcut</key>
+		<string>entao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Rua Minas Gerais,30 - apto 124 - Vila Brasil Santa Bárbara d'Oeste/SP - CEP 13341-077</string>
+		<key>shortcut</key>
+		<string>enderecosbo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Endereço: Rua Quatorze, 2083, Centro - Jales-SP CEP: 15700-086</string>
+		<key>shortcut</key>
+		<string>endclinica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>empresajosericardofvalves@gmail.com</string>
+		<key>shortcut</key>
+		<string>empresagmail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>clinicafraconviana@gmail.com</string>
+		<key>shortcut</key>
+		<string>emailclinica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>BOM ESTADO GERAL, CORADO, HIDRATADO, ACIANÓTICO, ANICTÉRICO, AFEBRIL  ACV: BRNF 2T S/S, PULSOS CHEIOS E SIMÉTRICOS, TPP&lt;3S AP: MV+ S/ RA, EUPNEICO SEM SINAIS DE DESCONFORTO RESPIRATÓRIO ABDOME: RHA+, FLÁCIDO, INDOLOR À PALPAÇÃO, SEM SINAIS DE PERITONITE NEURO: LOTE, PIFR, SEM DÉFICITS FOCAIS, SEM SINAIS MENÍNGEOS, SEM RIGIDEZ DE NUCA </string>
+		<key>shortcut</key>
+		<string>EFNORMAL</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Exercício físico</string>
+		<key>shortcut</key>
+		<string>EFF</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>eletrocardiograma</string>
+		<key>shortcut</key>
+		<string>ECG</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Estou a caminho!</string>
+		<key>shortcut</key>
+		<string>eac</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>drjosericardoviana@gmail.com</string>
+		<key>shortcut</key>
+		<string>drgmail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>doenças</string>
+		<key>shortcut</key>
+		<string>doencas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>doença</string>
+		<key>shortcut</key>
+		<string>doenca</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>DIPIRONA 1G - TOMAR 01 COMPRIMIDO VIA ORAL DE 6/6 HORAS SE DOR OU FEBRE</string>
+		<key>shortcut</key>
+		<string>DIPIRONA1G</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>DEMISSIONAL</string>
+		<key>shortcut</key>
+		<string>DEMI</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>888.293.758-53</string>
+		<key>shortcut</key>
+		<string>cpfmae</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>36359227819</string>
+		<key>shortcut</key>
+		<string>cpf.</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Constituição Federal</string>
+		<key>shortcut</key>
+		<string>constituicaofederal</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Código Penal</string>
+		<key>shortcut</key>
+		<string>codpenal</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Código Eleitoral</string>
+		<key>shortcut</key>
+		<string>codeleitoral</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Código Civil</string>
+		<key>shortcut</key>
+		<string>codcivil</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Consolidações das Leis Trabalhistas</string>
+		<key>shortcut</key>
+		<string>CLT</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>clinicafraconviana@gmail.com</string>
+		<key>shortcut</key>
+		<string>clinicagmail</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>clínica</string>
+		<key>shortcut</key>
+		<string>clinica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>CEP: 13451-077</string>
+		<key>shortcut</key>
+		<string>cepsbo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>17 99732-2337</string>
+		<key>shortcut</key>
+		<string>celcomercial</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>17 98203-1253</string>
+		<key>shortcut</key>
+		<string>celclinica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>17 981979977</string>
+		<key>shortcut</key>
+		<string>cel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Campanha Nacional de Prevenção de Acidentes do Trabalho - CANPAT</string>
+		<key>shortcut</key>
+		<string>CANPAT</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Banco C6 - Agência: 0001 CC: 236808886-2</string>
+		<key>shortcut</key>
+		<string>C6PF</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>BRONDILAT 10 MG/ML -TOMAR 10 ML VO DE 12/12 HORAS POR 05 DIAS</string>
+		<key>shortcut</key>
+		<string>BRONDILATTOSSE</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>bom dia mamãe, tudo bem ?</string>
+		<key>shortcut</key>
+		<string>bomdiamae</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>biológicos</string>
+		<key>shortcut</key>
+		<string>biologicos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>β</string>
+		<key>shortcut</key>
+		<string>beta</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Oi, estou bem e você?</string>
+		<key>shortcut</key>
+		<string>bemtmb</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Bom estado Geral, corado, hidratado, ancitérico, aciamótico e afebeil</string>
+		<key>shortcut</key>
+		<string>begchaaa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Agência: OO55 CC: 053548 - 9 SAFRA</string>
+		<key>shortcut</key>
+		<string>BANCOSAFRA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>bactérias</string>
+		<key>shortcut</key>
+		<string>bacterias</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Amitriptilina 25mg — o op 10 de 12/12 Horas </string>
+		<key>shortcut</key>
+		<string>Austriptila1212</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Atividade Laboral</string>
+		<key>shortcut</key>
+		<string>AtividadeLaboral</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>articulações </string>
+		<key>shortcut</key>
+		<string>articulacoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>áreas</string>
+		<key>shortcut</key>
+		<string>areas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Amitriptilina 25mg - Tomar 01 cp vo à noite</string>
+		<key>shortcut</key>
+		<string>Amitriptilina25mg1x</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>rua minas gerais,30 apto 124 edificio altos da colina - Santa Bárbara d oeste/SP</string>
+		<key>shortcut</key>
+		<string>altosdacolina</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>alterações</string>
+		<key>shortcut</key>
+		<string>alteracoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>α</string>
+		<key>shortcut</key>
+		<string>alfa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Avaliação Geriátrica Ampla</string>
+		<key>shortcut</key>
+		<string>AGA</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ADMISSIONAL</string>
+		<key>shortcut</key>
+		<string>ADM</string>
+	</dict>
+</array>
+</plist>
